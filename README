@@ -1,0 +1,12 @@
+The simple implementation of LDA(Linear Discriminant Analysis) in c++.
+Please read the paper:
+http://research.cs.tamu.edu/prism/lectures/pr/pr_l10.pdf
+for more details.
+
+In the code, I got different weight from the results given in the PPT.
+
+if any one know why, please contact me at:
+
+time.clifford@gmail.com
+
+I will be very appreciated.
